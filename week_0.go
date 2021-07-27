@@ -4,7 +4,7 @@ import "fmt"
 
 func main()  {
 	var name = "Victor"
-	var stack = "Goland"
+	var stack = "Golang"
 	var squad = "sq008"
 	var year = 2021
 
